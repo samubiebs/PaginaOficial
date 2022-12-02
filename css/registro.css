@@ -600,7 +600,14 @@ section .main_btn:hover i{
 
 .order .order_main .order_image img{
     width: 300px;
+    height: 500 px;
 }
+
+.order .order_main .order_image img {
+    width: 300px;
+}
+
+
 
 .order .order_main form{
     display: grid;
@@ -638,6 +645,7 @@ section .main_btn:hover i{
     text-align: center;
     margin-top: 20px;
     text-decoration: none;
+    display: inline-block;
 }
 
 
