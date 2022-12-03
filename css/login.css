@@ -113,7 +113,6 @@ section nav ul li a:hover{
 
 .loggin .loggin_principal form{
     display: grid;
-    grid-template-columns: 1fr 1fr;
     grid-gap: 0 10px;
 }
 
